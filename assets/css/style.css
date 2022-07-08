@@ -258,7 +258,7 @@ html,body{
 
 video {
     position: absolute;
-    top: 0;
+    top: -10;
     left: -30;
     width: auto;
     height: auto;
